@@ -1,0 +1,14 @@
+# flutter_native_splash-development.yaml
+flutter_native_splash:
+  color: "#ffffff"
+  image: assets/images/level-up.png
+  branding: assets/images/level-up.png
+  color_dark: "#121212"
+  image_dark: assets/images/level-up.png
+  branding_dark: assets/images/level-up.png
+
+  android_12:
+    image: assets/images/level-up.png
+    icon_background_color: "#ffffff"
+    image_dark: assets/images/level-up.png
+    icon_background_color_dark: "#121212"
